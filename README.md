@@ -20,7 +20,11 @@
 
 1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
 
+
+
 ---
+
+## Ответы.
 
 ### Задание 1
 
@@ -32,7 +36,7 @@
 
 ### Задание 2
 
-`Файл gitlab-ci.yml:`
+![Файл gitlab-ci.yml:](https://github.com/SLOV1977/8-03-hw/tree/main/.gitlab-ci.yml)
 
 ```
 workflow:
