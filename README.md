@@ -24,9 +24,9 @@
 
 ---
 
-## Ответы.
+## Решение.
 
-### Задание 1
+### Задание 1.
 
 ![Настройки раннера](https://github.com/SLOV1977/8-03-hw/tree/main/img/8-03-1.png)
 
@@ -34,7 +34,7 @@
 
 ---
 
-### Задание 2
+### Задание 2.
 
 ![Файл gitlab-ci.yml:](https://github.com/SLOV1977/8-03-hw/tree/main/.gitlab-ci.yml)
 
